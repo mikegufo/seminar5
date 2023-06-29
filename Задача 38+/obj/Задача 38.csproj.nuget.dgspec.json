@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nikeg\\OneDrive\\Desktop\\Урок5\\Задача 38\\Задача 38.csproj": {}
+    "C:\\Users\\nikeg\\OneDrive\\Desktop\\Урок5\\Задача 38+\\Задача 38.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nikeg\\OneDrive\\Desktop\\Урок5\\Задача 38\\Задача 38.csproj": {
+    "C:\\Users\\nikeg\\OneDrive\\Desktop\\Урок5\\Задача 38+\\Задача 38.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nikeg\\OneDrive\\Desktop\\Урок5\\Задача 38\\Задача 38.csproj",
+        "projectUniqueName": "C:\\Users\\nikeg\\OneDrive\\Desktop\\Урок5\\Задача 38+\\Задача 38.csproj",
         "projectName": "Задача 38",
-        "projectPath": "C:\\Users\\nikeg\\OneDrive\\Desktop\\Урок5\\Задача 38\\Задача 38.csproj",
+        "projectPath": "C:\\Users\\nikeg\\OneDrive\\Desktop\\Урок5\\Задача 38+\\Задача 38.csproj",
         "packagesPath": "C:\\Users\\nikeg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nikeg\\OneDrive\\Desktop\\Урок5\\Задача 38\\obj\\",
+        "outputPath": "C:\\Users\\nikeg\\OneDrive\\Desktop\\Урок5\\Задача 38+\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nikeg\\AppData\\Roaming\\NuGet\\NuGet.Config"

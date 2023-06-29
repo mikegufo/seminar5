@@ -13,9 +13,9 @@ int[] FillArray()
     return array;
 }
 
-void PrintArray(int[] arrayForPrint)
+void PrintArray(int[] array)
 {
-    System.Console.WriteLine("[" + string.Join(", ", arrayForPrint) + "]");
+    System.Console.WriteLine("[" + string.Join(", ", array) + "]");
 
 }
 

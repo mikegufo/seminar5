@@ -1,6 +1,4 @@
-﻿
-
-int[] FillArray()
+﻿int[] FillArray()
 {
     int[] array = new int[5];
     Random rand = new Random();
@@ -11,9 +9,9 @@ int[] FillArray()
     } return array;
 }
 
-void PrintArray(int[] arrayForPrint)
+void PrintArray(int[] array)
 {
-    System.Console.WriteLine("[" + string.Join(", ", arrayForPrint) + "]");
+    System.Console.WriteLine("[" + string.Join(", ", array) + "]");
 }
 
 void FindCount(int[] array, out int count)
